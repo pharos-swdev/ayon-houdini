@@ -16,7 +16,6 @@ import ayon_api
 
 from ayon_core.pipeline import registered_host
 from ayon_core.pipeline.create import CreateContext
-from ayon_core.pipeline.create.creator_plugins import discover_create_plugins
 from ayon_core.resources import get_ayon_icon_filepath
 
 import hou
